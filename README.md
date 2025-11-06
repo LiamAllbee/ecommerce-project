@@ -1,6 +1,6 @@
 # ecommerce-project
 
-This repository documents my back end learning. I'm am now building on my work with Typescript, Angular, and Java, to create an ecommerce website that uses springboot to leverage the backend, MySQL for data storage, and and Angular on the frontend. This project will also use Lombok to minimize boilerplate code and speed up development. 
+This repository documents my back end learning. I'm am now building on my work with Typescript, Angular, mySQL and Java, to create an ecommerce website that uses springboot to leverage the backend, MySQL for data storage, and and Angular on the frontend. This project will also use Lombok to minimize boilerplate code and speed up development. 
 
 ## Why this exists
 

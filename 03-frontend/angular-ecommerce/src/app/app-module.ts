@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing-module';
 import { App } from './app';
 import { ProductList } from './components/product-list/product-list';
 import { provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
+import { ProductService } from './services/product-service';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { provideHttpClient, withInterceptorsFromDi } from '@angular/common/http'
   ],
   providers: [
     provideBrowserGlobalErrorListeners(),
-    provideHttpClient(withInterceptorsFromDi())
+    provideHttpClient(withInterceptorsFromDi()),
+    ProductService
   ],
   bootstrap: [App]
 })

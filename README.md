@@ -1,4 +1,5 @@
 # ecommerce-project
+* Dropped this project since I felt like I wasn't learning anything from this style. I opted in favor of just brute forcing my project for this course by learning everything as I went instead of trying to do it the wacky way this guide does it. 
 
 This repository documents my back end learning. I'm am now building on my work with Typescript, Angular, mySQL, and Java. This is to create an ecommerce website that uses Springboot to leverage the backend, MySQL for data storage, and and Angular on the frontend. This project will also use Lombok to minimize boilerplate code and speed up development. 
 
